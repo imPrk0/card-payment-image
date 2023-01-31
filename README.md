@@ -13,6 +13,13 @@
     - `https://cdn.jsdelivr.net/gh/BiliPrk/card-payment-image/images/ali.png`
 
 
+## 如何投稿
+
+  你可以在 [Issues](https://github.com/BiliPrk/card-payment-image/issues) 中留下来，如果符合设计规范，那么将会被收录。
+
+  > 图片大小和下方标准一致，且为 `png` 格式的透明图
+
+
 ## 图片列表
 
   | 支付接口名 | 图片 | 附加图片 |
@@ -29,3 +36,8 @@
   | USDT-OKC | ![usdt-okc.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/usdt-okc.png) | 无 |
   | 微信支付 | ![wx.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/wx.png) | ![wx_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/wx_qr.png) |
   | 有赞 | ![youzan.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/youzan.png) | ![youzan_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/youzan_qr.png) |
+
+
+## 没有想要的？
+
+  如果你想要的支付接口图片并没有在列表或库里，请在 [Issues](https://github.com/BiliPrk/card-payment-image/issues) 中留下来，我将会进行制作。
