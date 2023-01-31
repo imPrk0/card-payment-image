@@ -17,4 +17,15 @@
 
   | 支付接口名 | 图片 | 附加图片 |
   | :---: | :---: | :---: |
-  | 支付宝 | ![ali.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/ali.png) |![ali_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/ali_qr.png) |
+  | 支付宝 | ![ali.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/ali.png) | ![ali_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/ali_qr.png) |
+  | Bitcoin | ![btc.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/btc.png) | ![btc_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/btc_qr.png) |
+  | 京东钱包 | ![jd.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/jd.png) | ![jd_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/jd_qr.png) |
+  | PayPal | ![paypal.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/paypal.png) | 无 |
+  | QQ钱包 | ![qq.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/qq.png) | ![qq_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/qq_qr.png) |
+  | 中国银联 | ![unionpay.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/unionpay.png) | ![unionpay_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/unionpay_qr.png) |
+  | USDT | ![usdt.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/usdt.png) | 无 |
+  | USDT-TRC20 | ![usdt-trc20.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/usdt-trc20.png) | 无 |
+  | USDT-ERC20 | ![usdt-erc20.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/usdt-erc20.png) | 无 |
+  | USDT-OKC | ![usdt-okc.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/usdt-okc.png) | 无 |
+  | 微信支付 | ![wx.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/wx.png) | ![wx_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/wx_qr.png) |
+  | 有赞 | ![youzan.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/youzan.png) | ![youzan_qr.png](https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/youzan_qr.png) |
