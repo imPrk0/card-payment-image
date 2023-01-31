@@ -9,8 +9,9 @@
 
   或使用 GitHub 的图片地址或回源 CDN。
 
-    - `https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/ali.png`
-    - `https://cdn.jsdelivr.net/gh/BiliPrk/card-payment-image/images/ali.png`
+- `https://raw.githubusercontent.com/BiliPrk/card-payment-image/master/images/ali.png`
+
+- `https://cdn.jsdelivr.net/gh/BiliPrk/card-payment-image/images/ali.png`
 
 
 ## 如何投稿
